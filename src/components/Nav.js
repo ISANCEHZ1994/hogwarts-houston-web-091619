@@ -1,5 +1,6 @@
 import piggy from '../porco.png'
 import React from 'react'
+// require(`../hog-imgs/${formattedName}.jpg`;
 
 const Nav = () => {
 	return (
